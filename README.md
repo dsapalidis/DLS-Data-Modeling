@@ -14,7 +14,3 @@ Multi-angle Dynamic Light Scattering (MA-DLS) software and tools is a Python pac
 
 - **Bugs** dsapalidis@gmail.com
 
-   
-
-- **Website:** https://www.empa.ch/web/s499
-- **Bugs** dsapalidis@gmail.com
