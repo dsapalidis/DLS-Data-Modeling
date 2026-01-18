@@ -13,5 +13,5 @@ Multi-angle Dynamic Light Scattering (MA-DLS) software and tools is a Python pac
 6. User selection of the number of the angles that will be used for averaging. Evaluation of the robustness of the fitting using the linear curve of Γ-q^2 for each angle
    
 
-- **Website:** https://www.empa.ch/web/s499
+
 - **Bugs** dsapalidis@gmail.com
