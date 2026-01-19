@@ -2,10 +2,11 @@
 Software and useful python tools for data processing and analysis of Multi-angle Dynamic Light Scattering data (from ZetaSizer or other instruments)
 
 <p align="center">
-   <img src="DLS_Multiangle_Plot.png" width="200" />
-  <img src="DLS_Biexponential_Fitting.png" width="220" />
-  <img src="DLS_Gamma_q2_Fit.png" width="230" />
+   <img src="DLS_Multiangle_Plot.png" height="220" />
+  <img src="DLS_Biexponential_Fitting.png" height="220" />
+  <img src="DLS_Gamma_q2_Fit.png" height="220" />
   </p>
+
 
    
 Multi-angle Dynamic Light Scattering (MA-DLS) software and tools is a Python package containing mostly jupyter notebooks that enables:
